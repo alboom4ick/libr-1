@@ -15,7 +15,7 @@ export default function Page() {
             throw new Error('Side Panel is not yet initialized!');
         }
         await sidePanelClient.startActivity({
-            mainStageUrl: 'https://master.drslb4hsshdpx.amplifyapp.com'
+            mainStageUrl: 'https://main.d3gqjbszxtvv4a.amplifyapp.com/mainstage'
         });
     }
 
